@@ -13,9 +13,9 @@
 * After the store loads, hit the "All" drop-down at the top of the screen, then select "Private".  Your app should be displayed.  Select the "Add" button to install it.  When it is done, your LaMetric should display your app, cycling through the frames you configured when creating the app.
 * Download the code in this project and open Main.java in an editor.  Replace the values of the APP_ID and ACCESS_TOKEN constants with the values that you recorded earlier.
 * Modify the lines creating frames to match the frames that you configured when creating the app:
-** Name/Metric frames = TextFrame class (the Name and Metric frames seem to be the same, but the latter specifically uses the green arrow #120, red arrow #120 and blue equals #401 icons).
-** Goal frame = GoalDataFrame class
-** Sparkline frame = SparklineFrame class
+  * Name/Metric frames = TextFrame class (the Name and Metric frames seem to be the same, but the latter specifically uses the green arrow #120, red arrow #120 and blue equals #401 icons).
+  * Goal frame = GoalDataFrame class
+  * Sparkline frame = SparklineFrame class
 * Make sure that the index values for each of your frames is correct.
 * Run the Main class.  Once it is complete, your LaMetric should display the updated data.
 
