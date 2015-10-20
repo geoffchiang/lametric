@@ -6,7 +6,7 @@
 * In the "Select communication type" section, select "Push".
 * Click the "Next" button
 * Pick an icon for you app (or create one), give you app a name and a description.  Make sure that the "Private app" checkbox is checked, and click the "Save" button.
-* On the next page you'll see some details about your unpublished app.  The URL value for the "Push URL" item will contain you app ID - it's the bit matching "com.lametric.<bunch of alphanumeric characters>, but not including the "/1" at the end of the URL (that's the app version).  Copy the app ID and record it somewhere.
+* On the next page you'll see some details about your unpublished app.  The URL value for the "Push URL" item will contain you app ID - it's the bit matching "com.lametric.(alphanumeric characters), but not including the "/1" at the end of the URL (that's the app version).  Copy the app ID and record it somewhere.
 * Copy the "Access token" value as well, you'll need that too.
 * Click the "Publish" button near the top of the page.  You should receive an email notification in about a minute confirming that your app has been published.
 * Open the LaMetric app on your mobile device.  Select your device to see the installed apps, then select the "+" button to add a new app.
