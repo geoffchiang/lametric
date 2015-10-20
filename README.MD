@@ -18,6 +18,3 @@
   * Sparkline frame = SparklineFrame class
 * Make sure that the index values for each of your frames is correct.
 * Run the Main class.  Once it is complete, your LaMetric should display the updated data.
-
-## Gotchas
-* I'm not entirely sure why, but whatever you set the first value in Sparkline chart data to, it always seems to come out as zero on the LaMetric.
